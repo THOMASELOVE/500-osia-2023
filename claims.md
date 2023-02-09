@@ -6,12 +6,15 @@ Jordan Rieke | [Brown et al 2022](pdf/brown_2022.pdf), and [Supplement](pdf/brow
 Bryan Abadie | [Taramasso et al 2019](pdf/taramasso_2019.pdf) | Taramasso M et al. (2019) Transcatheter Versus Medical Treatment of Patients With Symptomatic Severe Tricuspid Regurgitation *J Am Coll Cardiol* 74: 2998-3008. https://doi.org/10.1016/j.jacc.2019.09.028
 Sameer Prasada | [Elbadawi et al 2021](pdf/elbadawi_2021.pdf), and [Supplement](pdf/elbadawi_2021_supplement.pdf) | Elbadawi A et al. (2021) Contemporary Revascularization Strategies and Outcomes Among Patients With Diabetes With Critical Limb Ischemia: Insights from the National Inpatient Sample *J Am Coll Cardiol Intv* 14: 664-74. https://doi.org/10.1016/j.jcin.2020.11.032
 Alise Carlson | [Pape et al 2022](pdf/pape_2022.pdf), and [Supplement](pdf/pape_2022_supplement.pdf) | Pape K et al. (2022) Comparative effectiveness of natalizumab versus ocrelizumab in multiple sclerosis: a real-world propensity score–matched study *Ther Adv Neurol Disord* 15: 1-15. https://doi.org/10.1177/17562864221142924
-Ibe Babatunde |
-Catherine Heinzinger | 
-Benjamin Kramer |
-Zunren (Jack) Liu |
-Kyle McGill Percy |
-Vineet Punia | 
-Jacqueline Shaia |
-Peng Zhang |
-Millenia Zhou |
+
+## Awaiting A Claim Submission (due 2023-02-15 at 7 PM)
+
+- Ibe Babatunde
+- Catherine Heinzinger
+- Benjamin Kramer
+- Zunren (Jack) Liu
+- Kyle McGill Percy
+- Vineet Punia
+- Jacqueline Shaia
+- Peng Zhang
+- Millenia Zhou
