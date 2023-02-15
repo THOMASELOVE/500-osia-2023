@@ -2,7 +2,7 @@
 
 ## Second Reader Assignment and Scheduling is underway
 
-Please complete the form by 2023-03-06 at noon. You'll find the form at https://bit.ly/500-2023-osia-schedule.
+Please complete [the form](https://bit.ly/500-2023-osia-schedule) by 2023-03-06 at noon, at https://bit.ly/500-2023-osia-schedule.
 
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
 :-----------: | :-----------: | :---------: | :-------------------------------------------------------------------------
