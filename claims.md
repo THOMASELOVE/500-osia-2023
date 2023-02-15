@@ -1,5 +1,9 @@
 # Claimed Papers for OSIA presentations, Spring 2023
 
+## Second Reader Assignment and Scheduling is underway
+
+Please complete the form by 2023-03-06 at noon. You'll find the form at https://bit.ly/500-2023-osia-schedule.
+
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
 :-----------: | :-----------: | :---------: | :-------------------------------------------------------------------------
 Jordan Rieke | - | [Brown et al 2022](pdf/brown_2022.pdf), and [Supplement](pdf/brown_2022_supplement.pdf) | Brown RE et al. (2022) Real-world glycaemic outcomes in adult persons with type 1 diabetes using a real-time continuous glucose monitor compared to an intermittently scanned glucose monitor: A retrospective observational study from the Canadian LMC diabetes registry (REAL-CGM-T1D) *Diabetic Medicine* 39: e14937. https://doi.org/10.1111/dme.14937 
