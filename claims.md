@@ -13,8 +13,5 @@ Jacqueline Shaia | [Raynald et al 2022](pdf/raynald_2022.pdf) | Raynald et al (2
 Vineet Punia | [Ferreira-Atuesta et al 2021](pdf/ferreira-atuesta_2021.pdf), and [Supplement](pdf/ferreira-atuesta_2021_supplement.pdf) | Ferreira-Atuesta C et al. (2021) Seizures after Ischemic Stroke: A Matched Multicenter Study *Ann Neurol* 90: 808-20. https://doi.org/10.1002/ana.26212
 Zunren (Jack) Liu | [Wu J et al 2022](pdf/wu_2022.pdf) | Wu J et al. (2022) Higher Collective Responsibility, Higher COVID-19 Vaccine Uptake, and Interaction with Vaccine Attitude: Results from Propensity Score Matching *Vaccines* 10: 1295. https://doi.org/10.3390/vaccines10081295
 Ife Babatunde | [Yang et al 2022](pdf/yang_2022.pdf) | Yang N et al. (2022) In-hospital outcomes of ticagrelor versus clopidogrel in patients 75 years or older with acute coronary syndrome: findings from the Improving Care for Cardiovascular Disease in China (CCC) – Acute Coronary Syndrome Project *Age and Ageing* S1: 1-12. https://doi.org/10.1093/ageing/afac231
-Benjamin Kramer | [Hiraoka et al 2017](pdf/hiraoka_2017.pdf) | Hiraoka A et al. (2017) Objective analysis of midterm outcomes of conventional and hybrid aortic arch repair by propensity-score matching *J Thoracic and Cardiovasc Surgery* 154(1): 100-6.e1. http://doi.org/10.1016/j.jtcvs.2016.12.060
-
-## Awaiting A Claim Submission (due 2023-02-15 at 7 PM)
-
-- Millenia Zhou
+Benjamin Kramer | [Hiraoka et al 2017](pdf/hiraoka_2017.pdf) | Hiraoka A et al. (2017) Objective analysis of midterm outcomes of conventional and hybrid aortic arch repair by propensity-score matching *J Thoracic and Cardiovasc Surgery* 154(1): 100-6.e1. https://doi.org/10.1016/j.jtcvs.2016.12.060
+Millenia Zhou | [Rai et al 2017](pdf/rai_2017.pdf), and [Supplement](pdf/rai_2017_supplement.pdf) | Rai D et al. (2017) Antidepressants during pregnancy and autism in offspring: population based cohort study *BMJ* 358:j2811 https://doi.org/10.1136/bmj.j2811
