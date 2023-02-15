@@ -4,7 +4,7 @@
 
 Please complete [the form](https://bit.ly/500-2023-osia-schedule) by 2023-03-06 at noon, at https://bit.ly/500-2023-osia-schedule.
 
-## Each of the OSIA manuscripts is linked below.
+## Each OSIA manuscript is linked below.
 
 The manuscripts and supplements are also available on our Shared Drive in the OSIA/pdf folder.
 
