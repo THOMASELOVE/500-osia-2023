@@ -2,7 +2,7 @@
 
 ## Second Reader Assignment and Scheduling is underway
 
-Please complete [the form](https://bit.ly/500-2023-osia-schedule) by 2023-03-06 at noon, at https://bit.ly/500-2023-osia-schedule.
+Please complete [the form](https://bit.ly/500-2023-osia-schedule) by 2023-03-06 at noon, at https://bit.ly/500-2023-osia-schedule. You'll specify your availability to attend class in person on each of the four days we'll have OSIA presentations, and you'll tell me your top four choices of article (from those below) to serve as second reader. Of course, you can only serve as second reader for a paper other than the one you'll present as first reader.
 
 ## Each OSIA manuscript is linked below.
 
