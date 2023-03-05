@@ -1,12 +1,33 @@
 # Claimed Papers for OSIA presentations, Spring 2023
 
-## Second Reader Assignment and Scheduling is underway
-
-Please complete [the form](https://bit.ly/500-2023-osia-schedule) by 2023-03-06 at noon, at https://bit.ly/500-2023-osia-schedule. You'll specify your availability to attend class in person on each of the four days we'll have OSIA presentations, and you'll tell me your top four choices of article (from those below) to serve as second reader. Of course, you can only serve as second reader for a paper other than the one you'll present as first reader.
-
 ## Each OSIA manuscript is linked below.
 
 The manuscripts and supplements are also available on our Shared Drive in the OSIA/pdf folder.
+
+## Class 09
+
+- Bryan/Sameer
+- Peng/Ife
+- 1
+- 2
+
+## Class 10
+
+- Ben/Bryan
+- Alise/Peng
+- Vineet/Jacqueline
+
+## Class 11
+
+- Jacqueline/Vineet
+- 3
+- 4
+
+## Class 12
+
+- Sameer/Ben
+- 5
+- 6
 
 ## List of Claims
 
