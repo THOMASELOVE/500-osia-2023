@@ -6,28 +6,31 @@ The manuscripts and supplements are also available on our Shared Drive in the OS
 
 ## Class 09
 
-- Bryan/Sameer
-- Peng/Ife
+- Bryan/Sameer (Taramasso 2019)
+- Alise/Peng (Pape 2022)
 - 1
-- 2
 
 ## Class 10
 
-- Ben/Bryan
-- Alise/Peng
-- Vineet/Jacqueline
+- Vineet/Jacqueline (Ferreira-Atuesta 2021)
+- Peng/Ife (Wu TD 2019)
+- 2
 
 ## Class 11
 
-- Jacqueline/Vineet
+- Jacqueline/Vineet (Raynald 2022)
+- Sameer/Ben (Elbadawi 2021)
 - 3
-- 4
 
 ## Class 12
 
-- Sameer/Ben
+- 4
 - 5
 - 6
+
+## Class 13
+
+- Ben/Bryan (Zeitner 2023)
 
 ## List of Claims
 
