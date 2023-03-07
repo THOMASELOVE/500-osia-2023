@@ -10,15 +10,15 @@ First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Ab
 :-----------: | :-----------: | :---------: | :-------------------------------------------------------------------------
 Bryan Abadie | Sameer Prasada | [Taramasso et al 2019](pdf/taramasso_2019.pdf) | Taramasso M et al. (2019) Transcatheter Versus Medical Treatment of Patients With Symptomatic Severe Tricuspid Regurgitation *J Am Coll Cardiol* 74: 2998-3008. https://doi.org/10.1016/j.jacc.2019.09.028
 Jordan Rieke | Catherine Heinzinger | [Brown et al 2022](pdf/brown_2022.pdf), and [Supplement](pdf/brown_2022_supplement.pdf) | Brown RE et al. (2022) Real-world glycaemic outcomes in adult persons with type 1 diabetes using a real-time continuous glucose monitor compared to an intermittently scanned glucose monitor: A retrospective observational study from the Canadian LMC diabetes registry (REAL-CGM-T1D) *Diabetic Medicine* 39: e14937. https://doi.org/10.1111/dme.14937 
-Alise Carlson | Peng Zhang | [Pape et al 2022](pdf/pape_2022.pdf), and [Supplement](pdf/pape_2022_supplement.pdf) | Pape K et al. (2022) Comparative effectiveness of natalizumab versus ocrelizumab in multiple sclerosis: a real-world propensity score–matched study *Ther Adv Neurol Disord* 15: 1-15. https://doi.org/10.1177/17562864221142924
+Vineet Punia | Jacqueline Shaia | [Ferreira-Atuesta et al 2021](pdf/ferreira-atuesta_2021.pdf), and [Supplement](pdf/ferreira-atuesta_2021_supplement.pdf) | Ferreira-Atuesta C et al. (2021) Seizures after Ischemic Stroke: A Matched Multicenter Study *Ann Neurol* 90: 808-20. https://doi.org/10.1002/ana.26212
 
 ## Class 10: 2023-03-30
 
 First Reader | Second Reader | PDF Links | Citation and DOI Link (to read the Abstract)
 :-----------: | :-----------: | :---------: | :-------------------------------------------------------------------------
-Vineet Punia | Jacqueline Shaia | [Ferreira-Atuesta et al 2021](pdf/ferreira-atuesta_2021.pdf), and [Supplement](pdf/ferreira-atuesta_2021_supplement.pdf) | Ferreira-Atuesta C et al. (2021) Seizures after Ischemic Stroke: A Matched Multicenter Study *Ann Neurol* 90: 808-20. https://doi.org/10.1002/ana.26212
 Peng Zhang | Ife Babatunde | [Wu TD et al 2019](pdf/wu_2019.pdf) | Wu TD et al. (2019) Association of Metformin Initiation and Risk of Asthma Exacerbation: A Claims-based Cohort Study *Ann Am Thorac Soc* 16(12): 1527-33. https://doi.org/10.1513/AnnalsATS.201812-897OC
 Zunren (Jack) Liu | Millenia Zhou | [Wu J et al 2022](pdf/wu_2022.pdf) | Wu J et al. (2022) Higher Collective Responsibility, Higher COVID-19 Vaccine Uptake, and Interaction with Vaccine Attitude: Results from Propensity Score Matching *Vaccines* 10: 1295. https://doi.org/10.3390/vaccines10081295
+Alise Carlson | Peng Zhang | [Pape et al 2022](pdf/pape_2022.pdf), and [Supplement](pdf/pape_2022_supplement.pdf) | Pape K et al. (2022) Comparative effectiveness of natalizumab versus ocrelizumab in multiple sclerosis: a real-world propensity score–matched study *Ther Adv Neurol Disord* 15: 1-15. https://doi.org/10.1177/17562864221142924
 
 ## Class 11: 2023-04-06
 
